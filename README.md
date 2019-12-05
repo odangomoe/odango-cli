@@ -4,7 +4,7 @@ Simple odango console client for fetching torrents
 
 # Showcase
 
-[![asciicast](https://asciinema.org/a/6RnFEUcLBZh9P6nm52FNU84X6.png)](https://asciinema.org/a/6RnFEUcLBZh9P6nm52FNU84X6)
+[![asciicast](https://asciinema.org/a/1AGXwWaO8O4KGvpulatYBegtQ.svg)](https://asciinema.org/a/1AGXwWaO8O4KGvpulatYBegtQ)
 
 # Usage
 
